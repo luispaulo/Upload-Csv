@@ -30,7 +30,7 @@ https://github.com/luispaulo/Upload-Csv.git
 
 ## Iniciando o projeto
 ```
-   executar NOVAMENTE comando :  php artisan serve
+   executar comando :  php artisan serve
 ```
 
 ## DUVIDAS E CONTATOS
