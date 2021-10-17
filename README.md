@@ -11,7 +11,7 @@
 
 ## Como iniciar o projeto
 - Clonar o projeto no github
-https://https://github.com/luispaulo/Upload-Csv.git
+https://github.com/luispaulo/Upload-Csv.git
 
 ## intrução de conexao mysql para alterar no arquivo:
 
@@ -21,6 +21,11 @@ https://https://github.com/luispaulo/Upload-Csv.git
     DB_DATABASE=laravel
     DB_USERNAME=root
     DB_PASSWORD=
+```
+
+## Carregar as migrates para o banco
+```
+   executar o comando :  php artisan migrate 
 ```
 
 ## DUVIDAS E CONTATOS
