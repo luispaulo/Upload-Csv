@@ -13,7 +13,7 @@
 - Clonar o projeto no github
 https://github.com/luispaulo/Upload-Csv.git
 
-## intrução de conexao mysql no arquivo .env:
+## Verifique as confirguracoes mysql no arquivo .env:
 
 ```DB_CONNECTION=mysql
     DB_HOST=mysql
@@ -23,15 +23,22 @@ https://github.com/luispaulo/Upload-Csv.git
     DB_PASSWORD=
 ```
 
-## Carregar as migrates para o banco
+## Instalar composer
 ```
-   executar o comando :  php artisan migrate 
+    composer install
+    npm install
 ```
 
-## Iniciando o projeto
+## Ja pode subir o conteiner
 ```
-   executar comando :  php artisan serve
+    docker-compose up -d --build
 ```
+
+## Carregar as migrates para o banco
+```
+   php artisan migrate
+```
+
 
 ## DUVIDAS E CONTATOS
 - **[Whatsapp - Luis Paulo ](https://api.whatsapp.com/send?phone=5561982481004)**
