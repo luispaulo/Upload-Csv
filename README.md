@@ -8,5 +8,20 @@
 </p>
 
 ## About Laravel
+
+## Como iniciar o projeto
+- Clonar o projeto no github
+https://https://github.com/luispaulo/Upload-Csv.git
+
+## intrução de conexao mysql para alterar no arquivo:
+
+```DB_CONNECTION=mysql
+    DB_HOST=mysql
+    DB_PORT=3306
+    DB_DATABASE=laravel
+    DB_USERNAME=root
+    DB_PASSWORD=
+```
+
 ## DUVIDAS E CONTATOS
 - **[Whatsapp - Luis Paulo ](https://api.whatsapp.com/send?phone=5561982481004)**
