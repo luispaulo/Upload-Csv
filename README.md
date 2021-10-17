@@ -13,7 +13,7 @@
 - Clonar o projeto no github
 https://github.com/luispaulo/Upload-Csv.git
 
-## intrução de conexao mysql para alterar no arquivo:
+## intrução de conexao mysql no arquivo .env:
 
 ```DB_CONNECTION=mysql
     DB_HOST=mysql
@@ -26,6 +26,11 @@ https://github.com/luispaulo/Upload-Csv.git
 ## Carregar as migrates para o banco
 ```
    executar o comando :  php artisan migrate 
+```
+
+## Iniciando o projeto
+```
+   executar NOVAMENTE comando :  php artisan serve
 ```
 
 ## DUVIDAS E CONTATOS
