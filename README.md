@@ -31,7 +31,7 @@ https://github.com/luispaulo/Upload-Csv.git
 
 ## Ja pode subir o conteiner
 ```
-    docker-compose up -d --build
+   php artisan serve
 ```
 
 ## Carregar as migrates para o banco
