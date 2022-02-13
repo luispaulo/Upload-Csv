@@ -1,19 +1,13 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.eureciclo.com.br/img/selo-horizontal.ea6b8657.png" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Luis Paulo Santos
+## Luis Paulo Santos - Development
 
-## Como iniciar o projeto
-- Clonar o projeto no github
+## How to start the project
+- Clone the project on github
 https://github.com/luispaulo/Upload-Csv.git
 
-## Verifique as confirguracoes mysql no arquivo .env:
+## Check mysql settings in the file .env:
 
 ```DB_CONNECTION=mysql
     DB_HOST=mysql
@@ -23,22 +17,22 @@ https://github.com/luispaulo/Upload-Csv.git
     DB_PASSWORD=
 ```
 
-## Instalar composer
+## Install composer
 ```
     composer install
     npm install
 ```
 
-## Ja pode subir o conteiner
+## Now you can upload the container
 ```
    php artisan serve
 ```
 
-## Carregar as migrates para o banco
+## Load the migrates to the database
 ```
    php artisan migrate
 ```
 
 
-## DUVIDAS E CONTATOS
+## QUESTIONS AND CONTACTS
 - **[Whatsapp - Luis Paulo ](https://api.whatsapp.com/send?phone=5561982481004)**
