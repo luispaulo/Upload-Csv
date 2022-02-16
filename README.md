@@ -10,7 +10,7 @@ App upload files in CSV or TXT format, normalize the data and store it in the da
 - Clone the project on github
 https://github.com/luispaulo/Upload-Csv.git
 
-## Check mysql settings in the file .env:
+## Check mysql settings in .env file, use your mysql password
 
 ```DB_CONNECTION=mysql
     DB_HOST=mysql
