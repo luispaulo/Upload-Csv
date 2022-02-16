@@ -44,6 +44,11 @@ https://github.com/luispaulo/Upload-Csv.git
    php artisan migrate
 ```
 
+## file to upload is in the root of the project
+```
+   dados.txt
+```
+
 
 ## QUESTIONS AND CONTACTS
 - **[Whatsapp - Luis Paulo ](https://api.whatsapp.com/send?phone=5561982481004)**
