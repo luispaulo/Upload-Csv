@@ -1,7 +1,10 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.eureciclo.com.br/img/selo-horizontal.ea6b8657.png" width="400"></a></p>
 </p>
 
-## Luis Paulo Santos - Development
+## Development - Luis Paulo Santos
+
+## Project Description
+App upload files in CSV or TXT format, normalize the data and store it in the database.
 
 ## How to start the project
 - Clone the project on github
@@ -20,12 +23,20 @@ https://github.com/luispaulo/Upload-Csv.git
 ## Install composer
 ```
     composer install
-    npm install
 ```
 
 ## Now you can upload the container
 ```
    php artisan serve
+```
+
+## Run mysql in terminal
+```
+   mysql -u root -p 
+```
+## Create database in mysql
+```
+   CREATE DATABASE laravel;
 ```
 
 ## Load the migrates to the database
