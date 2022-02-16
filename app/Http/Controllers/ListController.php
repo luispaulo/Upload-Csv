@@ -7,10 +7,10 @@ use Illuminate\Http\Request;
 
 class ListController extends Controller
 {
-    public function listar()
+    public function list()
     {
 
-        $vendas = DB::table('vendas')->get();
-        return view('pages.list',['vendas' => $vendas]);
+        $sales = DB::table('sales')->get();
+        return view('pages.list',['sales' => $sales]);
     }
 }
